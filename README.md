@@ -18,3 +18,9 @@ I faced trouble in outputting the sound directly from the built-in function of t
 
 ## Learning Outcomes
 This was an extremely fun-filled project which, as stated in our aim above, enabled to bridge the gap between theory and practical implications of Python. It also gave a deep insight in to a variety of such projects that have been made using the same inspiration as well as giving new ideas which I hope to implement as well.
+
+---
+
+### Contributors
+- [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)
+- Shah Jahan Sangrassi
